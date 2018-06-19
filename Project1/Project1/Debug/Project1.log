@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\juank\source\repos\project1\project1\main.cpp(677): warning C4101: 'tmp': variable local sin referencia
+  readerPNMImageFile.cpp
+c:\users\juank\source\repos\project1\project1\readerpnmimagefile.cpp(159): warning C4244: '=': conversión de 'std::streamsize' a 'int'; posible pérdida de datos
+c:\users\juank\source\repos\project1\project1\readerpnmimagefile.cpp(162): warning C4244: '+=': conversión de 'std::streamsize' a 'int'; posible pérdida de datos
+c:\users\juank\source\repos\project1\project1\readerpnmimagefile.cpp(173): warning C4101: 'cdata': variable local sin referencia
+  Generando código...
+  Project1.vcxproj -> C:\Users\juank\source\repos\Project1\Debug\Project1.exe
